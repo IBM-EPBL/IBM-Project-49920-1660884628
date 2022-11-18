@@ -1,0 +1,16 @@
+# IBM-Project-49920-1660884628
+Exploratory Analysis of RainFall Data in India for Agriculture
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import re
+import os
+import collections
+import seaborn as sns
+import plotly.express as px
+import warnings
+warnings.filterwarnings('ignore')
+!pip3 install openpyxl
+Requirement already satisfied: openpyxl in d:\users\nanda\anaconda3\lib\site-packages (3.0.9)
+Requirement already satisfied: et-xmlfile in d:\users\nanda\anaconda3\lib\site-packages (from openpyxl) (1.1.0)
+ 
